@@ -1,17 +1,17 @@
 {
-  "name": "@zxcvbn-ts/language-de",
-  "version": "0.2.0",
+  "name": "@jhormanrus/zxcvbn-lang-es",
+  "version": "0.0.0",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
-  "description": "The German language package for zxcvbn-ts",
+  "description": "The Spanish language package for zxcvbn-ts",
   "license": "MIT",
-  "homepage": "https://github.com/zxcvbn-ts/zxcvbn",
+  "homepage": "https://github.com/jhormanrus/zxcvbn",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zxcvbn-ts/zxcvbn.git"
+    "url": "https://github.com/jhormanrus/zxcvbn"
   },
-  "author": "hrueger & MrWook",
+  "author": "Jhorman Rus",
   "files": [
     "dist",
     "src"
@@ -23,6 +23,6 @@
     "zxcvbn",
     "language",
     "translation",
-    "german"
+    "spanish"
   ]
 }
